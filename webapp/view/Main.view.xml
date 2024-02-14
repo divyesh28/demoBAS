@@ -1,7 +1,7 @@
 <mvc:View controllerName="nsgitdemoapp.gitdemoapp.controller.Main"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="Main Page for Git demo">
+    <Page id="page" title="Main Page for Git demooo">
         <content />
     </Page>
 </mvc:View>
